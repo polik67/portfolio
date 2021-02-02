@@ -2594,6 +2594,10 @@
 			color: black;
 		}
 
+		#header h2, h3 {
+			color: #485451;
+		}
+
 		#header .avatar {
 			border-radius: 100%;
 			display: inline-block;
@@ -2616,12 +2620,14 @@
 
 		}
 
+		
+
 /* Footer */
 
 	#footer {
 		text-align: center;
 		padding: 4em 0 4em 0;
-		background-color: #b3e6ff;
+		background-color: #cde0dd;
 		width: 100%;
 		}
 
